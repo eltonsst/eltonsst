@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I'm Elton, I love functional programming and learning new things 📚
 
-Currently Senior Software Engineer in the Core Team at Moneyfarm 💰
+currently Senior Software Engineer in the Core Team at Moneyfarm 💰
